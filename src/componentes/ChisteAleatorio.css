@@ -1,0 +1,36 @@
+.chiste {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .botonChiste {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: lightgray;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: 0.3s;
+  }
+  
+  .chiste.red {
+    color: red;
+  }
+  
+  .chiste.green {
+    color: green;
+  }
+  
+  .chiste.blue {
+    color: blue;
+  }
+  
+  .chiste.purple {
+    color: purple;
+  }
+  
+  .chiste.orange {
+    color: orange;
+  }

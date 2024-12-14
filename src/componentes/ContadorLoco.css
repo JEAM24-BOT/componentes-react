@@ -1,0 +1,40 @@
+.contadorLoco {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .botonLoco {
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    transition: 0.3s;
+  }
+  
+  .contadorLoco.red {
+    color: red;
+  }
+  
+  .contadorLoco.green {
+    color: green;
+  }
+  
+  .contadorLoco.blue {
+    color: blue;
+  }
+  
+  .contadorLoco.purple {
+    color: purple;
+  }
+  
+  .contadorLoco.orange {
+    color: orange;
+  }
+  
+  .contadorLoco.pink {
+    color: pink;
+  }
